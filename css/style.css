@@ -1,7 +1,16 @@
+body {
+    height: 200px;
+    background-color: grey; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, rgb(185, 183, 183) , rgb(48, 48, 49));
+  }
 h2{
     color: red;
   }
   p{
-    color: gray;
+    color: gold;
     font-size: 24px;
   }
+  img{
+      height: 600px;
+  }
+  
