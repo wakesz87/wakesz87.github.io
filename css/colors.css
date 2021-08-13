@@ -1,0 +1,18 @@
+#colorDiv{
+    display: inline-block;
+    width: 1000px;
+    height: 1000px;
+    background-color: rgba(0, 0, 255, 0.6);
+    margin: 40px 40px 40px 40px;
+    padding-bottom: 40;
+    border: dotted red;
+}
+body{
+  background-color: black;
+  background-image: url("../img/wall2.jpg");
+  background-position: left center;
+  background-size: 75%;
+}
+
+ 
+
